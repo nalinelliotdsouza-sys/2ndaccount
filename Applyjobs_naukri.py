@@ -14,9 +14,9 @@ import traceback
 
 # ------------------ Configuration ------------------
 # recommended: set these as environment variables instead of hardcoding
-GEMINI_API_KEY = os.environ.get("AIzaSyC60GiDVrsxpEYPu-Pq3486r3MPbxKfgc8", "")  # optional, not used in this debug run
-NAUKRI_EMAIL = os.environ.get("NAUKRI_EMAIL", "nalinelliot.dsouza@gmail.com")
-NAUKRI_PASSWORD = os.environ.get("NAUKRI_PASSWORD", "calsiner@3185")
+GEMINI_API_KEY = os.environ.get("Whatever the gemini key is", "")  # optional, not used in this debug run
+NAUKRI_EMAIL = os.environ.get("NAUKRI_EMAIL", "theexactemail@whatever.com")
+NAUKRI_PASSWORD = os.environ.get("NAUKRI_PASSWORD", "theactualpassword to the site")
 
 GECKODRIVER_PATH = os.environ.get("GECKODRIVER_PATH", None)  # optional
 FIREFOX_BINARY = r"C:\Program Files\Mozilla Firefox\firefox.exe"  # change if needed
