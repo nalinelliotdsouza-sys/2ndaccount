@@ -1,17 +1,10 @@
-# JobSailor
+# JobSapplication
 
 This project is an automated script that applies for jobs on Naukri.com and answers questions asked during the application process using the Gemini AI API. The script is written in Python and utilizes the Selenium WebDriver to navigate and interact with web pages.
 
 ## Introduction
 
-This script automates the process of applying to jobs listed on Naukri.com. It uses Selenium WebDriver to navigate the Naukri website, locate job listings, and submit job applications. Additionally, it interacts with the Gemini AI to answer questions that may be part of the job application process.
-
-
-## Video Showcase
-[![YouTube](http://i.ytimg.com/vi/emFERSfJDAU/hqdefault.jpg)](https://www.youtube.com/watch?v=emFERSfJDAU)
-
-
-
+This script automates the process of applying to jobs listed on Naukri.com. It uses Selenium WebDriver to navigate the Naukri website, locate job listings, and submit job applications. Additionally, it interacts with the Gemini AI to answer questions that may be part of the job application process. For now the script works hashing different job profiles, integration to Gemini remains.
 
 
 ## Features
